@@ -9,7 +9,7 @@
   ],
   "dependencies": {
     "component/stack": "0.0.1",
-    "jkroso/equals": "1.0.1",
+    "segmentio/equals": "1.1.0",
     "yields/fmt": "0.1.0"
   },
   "scripts": [
